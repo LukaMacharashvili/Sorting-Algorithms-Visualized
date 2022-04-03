@@ -1,0 +1,40 @@
+:host {
+    width: 100%;
+    height: 100%;
+}
+
+section {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 0.5px;
+}
+
+div {
+    width: 5px;
+}
+
+article {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.bubble {
+    width: 100px;
+    height: 30px;
+    background-color: rgb(40, 40, 231);
+    border: none;
+    border-radius: 5px;
+}
+
+.insertion {
+    width: 100px;
+    height: 30px;
+    background-color: rgb(231, 40, 151);
+    border: none;
+    border-radius: 5px;
+}

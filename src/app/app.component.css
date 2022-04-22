@@ -38,3 +38,11 @@ article {
     border: none;
     border-radius: 5px;
 }
+
+.selection {
+    width: 100px;
+    height: 30px;
+    background-color: rgb(113, 40, 231);
+    border: none;
+    border-radius: 5px;
+}
